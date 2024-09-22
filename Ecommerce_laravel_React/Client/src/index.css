@@ -1,0 +1,16 @@
+.navbar_warapper a{
+padding-left:30px ;
+}
+
+.linkk{
+    color: white;
+    text-decoration: none;
+}
+
+.headerbg{
+background-image: url('img1.webp');
+width: 100%;
+height: 100vh;
+text-align: center;
+
+}
